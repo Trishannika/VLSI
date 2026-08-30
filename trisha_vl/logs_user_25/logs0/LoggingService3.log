@@ -1,0 +1,9 @@
+[Logging Service: 3]
+[2026-08-30 06:30:38.869 -0400] [INFO] [cadence.virtuoso.ade.loggingservice] - HistoryRecorderManager init {"dbBasePath": "/home/user_25/trisha_vl/trisha/norgate_test/maestro/results/maestro"}
+[2026-08-30 06:30:38.870 -0400] [INFO] [cadence.virtuoso.ade.loggingservice] - useGRPC grpc service... {"brokerAddress": "vlsicad:41547", "serviceName": "DaVinciService_168231_1788085115", "axlSession": "fnxSession0"}
+[2026-08-30 06:30:38.870 -0400] [PROCESS] [cadence.virtuoso.ade.loggingservice] - Logging Service has successfully started. Waiting for incoming messages ... {"hostname": "vlsicad", "processid": 253137, "logfile": "/home/user_25/trisha_vl/logs_user_25/logs0/LoggingService3.log"}
+[2026-08-30 06:30:38.887 -0400] [INFO] [cadence.virtuoso.ade.loggingservice] - logging service gRPC started {"listening address": "vlsicad:43349"}
+[2026-08-30 06:30:48.920 -0400] [INFO] [cadence.virtuoso.ade.loggingservice] - Got exit signal in processControlMessage. Will exit. {}
+[2026-08-30 06:30:49.922 -0400] [PROCESS] [cadence.virtuoso.ade.loggingservice] - Current memory used: 63.6133 MBytes, peak memory used: 65.5703 MBytes {"hostname": "vlsicad", "processid": 253137, "logfile": "/home/user_25/trisha_vl/logs_user_25/logs0/LoggingService3.log"}
+[2026-08-30 06:30:49.922 -0400] [PROCESS] [cadence.virtuoso.ade.loggingservice] - Stopping Logging Service process. {"hostname": "vlsicad", "processid": 253137, "logfile": "/home/user_25/trisha_vl/logs_user_25/logs0/LoggingService3.log"}
+[2026-08-30 06:30:49.922 -0400] [PROCESS] [cadence.virtuoso.ade.loggingservice] - Logging Service stop!!!! {"hostname": "vlsicad", "processid": 253137, "logfile": "/home/user_25/trisha_vl/logs_user_25/logs0/LoggingService3.log"}

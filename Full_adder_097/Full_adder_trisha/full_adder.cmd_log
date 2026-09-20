@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Shared_back_up/Full_adder_trisha/full_adder.xst" -ofn "/home/ise/Shared_back_up/Full_adder_trisha/full_adder.syr" 

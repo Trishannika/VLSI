@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Shared_back_up/eightbit/register_8bit_tb_isim_beh.exe" -prj "/home/ise/Shared_back_up/eightbit/register_8bit_tb_beh.prj" "work.register_8bit_tb" 

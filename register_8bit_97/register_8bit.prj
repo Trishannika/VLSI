@@ -1,0 +1,7 @@
+vhdl work "../Register/computer/nand_gate.vhd"
+vhdl work "../Register/computer/sr_latch.vhd"
+vhdl work "../Register/computer/not_gate.vhd"
+vhdl work "../Register/computer/d_latch.vhd"
+vhdl work "../Register/computer/d_ff.vhd"
+vhdl work "../Register/computer/reg_1bit.vhd"
+vhdl work "../Register/computer/reg_8bit.vhd"

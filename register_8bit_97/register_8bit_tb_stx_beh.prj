@@ -1,0 +1,8 @@
+vhdl isim_temp "../Register/computer/nand_gate.vhd"
+vhdl isim_temp "../Register/computer/sr_latch.vhd"
+vhdl isim_temp "../Register/computer/not_gate.vhd"
+vhdl isim_temp "../Register/computer/d_latch.vhd"
+vhdl isim_temp "../Register/computer/d_ff.vhd"
+vhdl isim_temp "../Register/computer/reg_1bit.vhd"
+vhdl isim_temp "../Register/computer/reg_8bit.vhd"
+vhdl isim_temp "../Register/computer/reg_8bit_tb.vhd"

@@ -1,0 +1,10 @@
+Command line:
+   register_8bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  39249
+
+Sun Sep 27 15:15:13 2026
+
+
+ Elaboration Time: 0.13 sec

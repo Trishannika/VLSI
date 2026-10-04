@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Computer" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/ADD1 - full_adder - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/AND1 - and_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/NOR_NOT - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/NOR_OR - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/NOT1 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/OR1 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/SUB1 - full_subtractor - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U1 - full_adder - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U3 - and_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U4 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U5 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U6 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U7 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/U9 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_1BIT.vhd/ZERO1 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/ADD1 - full_adder - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/AND1 - and_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/NOR_NOT - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/NOR_OR - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/NOT1 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/OR1 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/SUB1 - full_subtractor - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU0 - ALU_1BIT - Structural/ZERO1 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU1 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU2 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU3 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU4 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU5 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU6 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT - Structural |home|ise|Shared_back_up|all work|Computer|ALU_8BIT.vhd/ALU7 - ALU_1BIT - Structural</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd/U1 - decoder_2to4 - Structural</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd/U2 - register_8bit - Structural</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd/U3 - register_8bit - Structural</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd/U4 - register_8bit - Structural</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd/U5 - register_8bit - Structural</ClosedNode>
+         <ClosedNode>/accumulator_4bit - Structural |home|ise|Shared_back_up|four_bit_accumulator|accumulator_4bit.vhd</ClosedNode>
+         <ClosedNode>/accumulator_8bit - Structural |home|ise|Shared_back_up|Accumulator_8bit|accumulator_8bit.vhd</ClosedNode>
+         <ClosedNode>/adder_demo - Structural |home|ise|Shared_back_up|Register|computer|adder_demo.vhd</ClosedNode>
+         <ClosedNode>/full_subtractor - Structural |home|ise|Shared_back_up|Subtractor|full_subtractor.vhd</ClosedNode>
+         <ClosedNode>/nor_gate - Structural |home|ise|Shared_back_up|Register|computer|nor_gate.vhd</ClosedNode>
+         <ClosedNode>/register_1bit - Structural |home|ise|Shared_back_up|Register|computer|reg_1bit.vhd</ClosedNode>
+         <ClosedNode>/register_4bit - Structural |home|ise|Shared_back_up|four_bit_accumulator|register_4bit.vhd</ClosedNode>
+         <ClosedNode>/register_8bit - Structural |home|ise|Shared_back_up|Accumulator_8bit|register_8bit.vhd</ClosedNode>
+         <ClosedNode>/xnor_gate - Structural |home|ise|Shared_back_up|Register|computer|xnor_gate.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>RAM_4X8 - Structural (/home/ise/Shared_back_up/eightbit/RAM_4X8.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000019c000000020000000000000000000000000200000064ffffffff0000008100000003000000020000019c0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>RAM_4X8 - Structural (/home/ise/Shared_back_up/eightbit/RAM_4X8.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000390000000040101000100000000000000000000000064ffffffff000000810000000000000004000000510000000100000000000000290000000100000000000000840000000100000000000002920000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>accumulator_4bit.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000128000000010001000100000000000000000000000064ffffffff000000810000000000000001000001280000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f9000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/ADD1 - full_adder - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/AND1 - and_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/NOR_NOT - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/NOR_OR - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/NOT1 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/OR1 - or_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/SUB1 - full_subtractor - Structural</ClosedNode>
+         <ClosedNode>/ALU_1BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_1BIT_TB.vhd/UUT - ALU_1BIT - Structural/ZERO1 - not_gate - Structural</ClosedNode>
+         <ClosedNode>/ALU_8BIT_TB - Behavioral |home|ise|Shared_back_up|all work|Computer|ALU_8BIT_TB.vhd</ClosedNode>
+         <ClosedNode>/RAM_4X8 - Structural |home|ise|Shared_back_up|eightbit|RAM_4X8.vhd</ClosedNode>
+         <ClosedNode>/RAM_4X8_TB - Behavioral |home|ise|Shared_back_up|eightbit|RAM_4x8_tb.vhd</ClosedNode>
+         <ClosedNode>/accumulator_4bit - Structural |home|ise|Shared_back_up|four_bit_accumulator|accumulator_4bit.vhd</ClosedNode>
+         <ClosedNode>/accumulator_4bit_tb - Behavioral |home|ise|Shared_back_up|four_bit_accumulator|accumulator_4bit_tb.vhd</ClosedNode>
+         <ClosedNode>/accumulator_8bit - Structural |home|ise|Shared_back_up|Accumulator_8bit|accumulator_8bit.vhd</ClosedNode>
+         <ClosedNode>/adder_8bit_tb - Behavioral |home|ise|Shared_back_up|Register|computer|adder_8bit_tb.vhd</ClosedNode>
+         <ClosedNode>/adder_demo - Structural |home|ise|Shared_back_up|Register|computer|adder_demo.vhd</ClosedNode>
+         <ClosedNode>/and_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|and_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/d_flip_flop_tb - Behavioral |home|ise|Shared_back_up|Register|computer|d_ff_tb.vhd</ClosedNode>
+         <ClosedNode>/d_latch_tb - Behavioral |home|ise|Shared_back_up|Register|computer|d_latch_tb.vhd</ClosedNode>
+         <ClosedNode>/full_adder_tb - Behavioral |home|ise|Shared_back_up|Register|computer|full_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/full_subtractor - Structural |home|ise|Shared_back_up|Subtractor|full_subtractor.vhd</ClosedNode>
+         <ClosedNode>/half_adder_tb - Behavioral |home|ise|Shared_back_up|Register|computer|half_adder_tb.vhd</ClosedNode>
+         <ClosedNode>/mux2_tb - Behavioral |home|ise|Shared_back_up|Register|computer|mux2_tb.vhd</ClosedNode>
+         <ClosedNode>/mux4_tb - Behavioral |home|ise|Shared_back_up|Register|computer|mux4_tb.vhd</ClosedNode>
+         <ClosedNode>/nand_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|nand_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/nor_gate - Structural |home|ise|Shared_back_up|Register|computer|nor_gate.vhd</ClosedNode>
+         <ClosedNode>/nor_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|nor_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/not_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|not_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/or_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|or_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/sr_latch_tb - Behavioral |home|ise|Shared_back_up|Register|computer|sr_latch_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_full_subtractor - Behavioral |home|ise|Shared_back_up|Subtractor|full_subtractor_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_master_slave_ff - Behavioral |home|ise|Shared_back_up|Register|computer|master_slave_ff_tb.vhd</ClosedNode>
+         <ClosedNode>/tb_register_1bit - Behavioral |home|ise|Shared_back_up|Register|computer|register_1bit_tb.vhd</ClosedNode>
+         <ClosedNode>/xnor_gate - Structural |home|ise|Shared_back_up|Register|computer|xnor_gate.vhd</ClosedNode>
+         <ClosedNode>/xnor_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|xnor_gate_tb.vhd</ClosedNode>
+         <ClosedNode>/xor_gate_tb - Behavioral |home|ise|Shared_back_up|Register|computer|xor_gate_tb.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ALU_8BIT_TB - Behavioral (/home/ise/Shared_back_up/all work/Computer/ALU_8BIT_TB.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001cb000000020000000000000000000000000200000064ffffffff000000810000000300000002000001cb0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>ALU_8BIT_TB - Behavioral (/home/ise/Shared_back_up/all work/Computer/ALU_8BIT_TB.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f9000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000014c0000011d01000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f9000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+</Project>

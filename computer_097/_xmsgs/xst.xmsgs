@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">50</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">50</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU0</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">65</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">65</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU1</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">80</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">80</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU2</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">95</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">95</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU3</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">110</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">110</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU4</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">125</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">125</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU5</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">140</arg>: Output port &lt;<arg fmt="%s" index="3">COUT</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">140</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU6</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">/home/ise/Shared_back_up/all work/Computer/ALU_8BIT.vhd</arg>&quot; line <arg fmt="%s" index="2">155</arg>: Output port &lt;<arg fmt="%s" index="3">ZERO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU7</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU0</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU3</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU4</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU5</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ADD1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND1_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">OR1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU6</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">ZERO1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">ALU7</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U3</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U3</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">XOR2</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">NOT2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">U2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">OR1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">AND2_G</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">SUB1</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1989" delta="new" >Unit &lt;<arg fmt="%s" index="1">ALU_1BIT</arg>&gt;: instances &lt;<arg fmt="%s" index="2">OR1</arg>&gt;, &lt;<arg fmt="%s" index="3">NOR_OR</arg>&gt; of unit &lt;<arg fmt="%s" index="4">or_gate</arg>&gt; are equivalent, second instance is removed
+</msg>
+
+</messages>
+

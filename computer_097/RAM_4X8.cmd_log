@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Shared_back_up/all work/Computer/RAM_4X8.xst" -ofn "/home/ise/Shared_back_up/all work/Computer/RAM_4X8.syr" 

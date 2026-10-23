@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/Documents/CSE_450/Register/computer/master_slave_ff.xst" -ofn "/home/ise/Documents/CSE_450/Register/computer/master_slave_ff.syr" 

@@ -1,0 +1,5 @@
+vhdl work "nand_gate.vhd"
+vhdl work "not_gate.vhd"
+vhdl work "or_gate.vhd"
+vhdl work "Opcode_Decoder.vhd"
+vhdl work "control_unit.vhd"

@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "/home/ise/Shared_back_up/CPU/computer/CPU_8bit_Set7.xst" -ofn "/home/ise/Shared_back_up/CPU/computer/CPU_8bit_Set7.syr" 
+xst -intstyle ise -ifn "/home/ise/Shared_back_up/CPU/computer/CPU_8bit_Set7.xst" -ofn "/home/ise/Shared_back_up/CPU/computer/CPU_8bit_Set7.syr" 
+xst -intstyle ise -ifn "/home/ise/Shared_back_up/CPU/computer/CPU_8bit_Set7.xst" -ofn "/home/ise/Shared_back_up/CPU/computer/CPU_8bit_Set7.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm accumulator_8bit.bmm -p xc6slx4-tqg144-3 CPU_8bit_Set7.ngc CPU_8bit_Set7.ngd  
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o CPU_8bit_Set7_map.ncd CPU_8bit_Set7.ngd CPU_8bit_Set7.pcf 
+map -intstyle ise -p xc6slx4-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o CPU_8bit_Set7_map.ncd CPU_8bit_Set7.ngd CPU_8bit_Set7.pcf 

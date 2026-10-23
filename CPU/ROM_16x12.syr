@@ -1,0 +1,389 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Reading design: ROM_16x12.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "ROM_16x12.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "ROM_16x12"
+Output Format                      : NGC
+Target Device                      : xc6slx4-3-tqg144
+
+---- Source Options
+Top Module Name                    : ROM_16x12
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/nand_gate.vhd" into library work
+Parsing entity <nand_gate>.
+Parsing architecture <Behavioral> of entity <nand_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/not_gate.vhd" into library work
+Parsing entity <not_gate>.
+Parsing architecture <Structural> of entity <not_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/and_gate.vhd" into library work
+Parsing entity <and_gate>.
+Parsing architecture <Structural> of entity <and_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/decoder_2to4.vhd" into library work
+Parsing entity <decoder_2to4>.
+Parsing architecture <Structural> of entity <decoder_2to4>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/or_gate.vhd" into library work
+Parsing entity <or_gate>.
+Parsing architecture <Structural> of entity <or_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/Decoder_4to16.vhd" into library work
+Parsing entity <Decoder_4to16>.
+Parsing architecture <Structural> of entity <decoder_4to16>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/ROM_16x12.vhd" into library work
+Parsing entity <ROM_16x12>.
+Parsing architecture <Structural> of entity <rom_16x12>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating entity <ROM_16x12> (architecture <Structural>) from library <work>.
+
+Elaborating entity <Decoder_4to16> (architecture <Structural>) from library <work>.
+
+Elaborating entity <decoder_2to4> (architecture <Structural>) from library <work>.
+
+Elaborating entity <not_gate> (architecture <Structural>) from library <work>.
+
+Elaborating entity <nand_gate> (architecture <Behavioral>) from library <work>.
+
+Elaborating entity <and_gate> (architecture <Structural>) from library <work>.
+
+Elaborating entity <or_gate> (architecture <Structural>) from library <work>.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <ROM_16x12>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/ROM_16x12.vhd".
+    Summary:
+	no macro.
+Unit <ROM_16x12> synthesized.
+
+Synthesizing Unit <Decoder_4to16>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/Decoder_4to16.vhd".
+    Summary:
+	no macro.
+Unit <Decoder_4to16> synthesized.
+
+Synthesizing Unit <decoder_2to4>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/decoder_2to4.vhd".
+    Summary:
+	no macro.
+Unit <decoder_2to4> synthesized.
+
+Synthesizing Unit <not_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/not_gate.vhd".
+    Summary:
+	no macro.
+Unit <not_gate> synthesized.
+
+Synthesizing Unit <nand_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/nand_gate.vhd".
+    Summary:
+	no macro.
+Unit <nand_gate> synthesized.
+
+Synthesizing Unit <and_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/and_gate.vhd".
+    Summary:
+	no macro.
+Unit <and_gate> synthesized.
+
+Synthesizing Unit <or_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/or_gate.vhd".
+    Summary:
+	no macro.
+Unit <or_gate> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+WARNING:Xst:1290 - Hierarchical block <U9> is unconnected in block <U1>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <U10> is unconnected in block <U1>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <U6> is unconnected in block <U1>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <U5> is unconnected in block <U1>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[1].GEN_LOW[2].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[1].GEN_LOW[3].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[2].GEN_LOW[0].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[2].GEN_LOW[1].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[2].GEN_LOW[2].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[2].GEN_LOW[3].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[3].GEN_LOW[0].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[3].GEN_LOW[1].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[3].GEN_LOW[2].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <GEN_HIGH[3].GEN_LOW[3].U_AND> is unconnected in block <DECODER_INST>.
+   It will be removed from the design.
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:1989 - Unit <ROM_16x12>: instances <OR5_A>, <OR4_A> of unit <or_gate> are equivalent, second instance is removed
+WARNING:Xst:1989 - Unit <ROM_16x12>: instances <OR9_A>, <OR4_B> of unit <or_gate> are equivalent, second instance is removed
+
+Optimizing unit <ROM_16x12> ...
+
+Optimizing unit <Decoder_4to16> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block ROM_16x12, actual ratio is 0.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : ROM_16x12.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 12
+#      LUT3                        : 1
+#      LUT4                        : 11
+# IO Buffers                       : 16
+#      IBUF                        : 4
+#      OBUF                        : 12
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx4tqg144-3 
+
+
+Slice Logic Utilization: 
+ Number of Slice LUTs:                   12  out of   2400     0%  
+    Number used as Logic:                12  out of   2400     0%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:     12
+   Number with an unused Flip Flop:      12  out of     12   100%  
+   Number with an unused LUT:             0  out of     12     0%  
+   Number of fully used LUT-FF pairs:     0  out of     12     0%  
+   Number of unique control sets:         0
+
+IO Utilization: 
+ Number of IOs:                          16
+ Number of bonded IOBs:                  16  out of    102    15%  
+
+Specific Feature Utilization:
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+No clock signals found in this design
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -3
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: No path found
+   Maximum output required time after clock: No path found
+   Maximum combinational path delay: 6.806ns
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 59 / 12
+-------------------------------------------------------------------------
+Delay:               6.806ns (Levels of Logic = 4)
+  Source:            ADDRESS<3> (PAD)
+  Destination:       INSTRUCTION<4> (PAD)
+
+  Data Path: ADDRESS<3> to INSTRUCTION<4>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            11   1.222   1.130  ADDRESS_3_IBUF (ADDRESS_3_IBUF)
+     LUT4:I0->O            3   0.203   0.898  DECODER_INST/GEN_HIGH[0].GEN_LOW[0].U_AND/U2/U1/Y1 (INSTRUCTION_1_OBUF)
+     LUT4:I0->O            1   0.203   0.579  OR4_C/U3/Y1 (INSTRUCTION_4_OBUF)
+     OBUF:I->O                 2.571          INSTRUCTION_4_OBUF (INSTRUCTION<4>)
+    ----------------------------------------
+    Total                      6.806ns (4.199ns logic, 2.607ns route)
+                                       (61.7% logic, 38.3% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 6.00 secs
+Total CPU time to Xst completion: 0.89 secs
+ 
+--> 
+
+
+Total memory usage is 475752 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   16 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

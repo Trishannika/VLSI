@@ -1,0 +1,444 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.01 secs
+ 
+--> 
+Reading design: PC_4bit.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "PC_4bit.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "PC_4bit"
+Output Format                      : NGC
+Target Device                      : xc6slx4-3-tqg144
+
+---- Source Options
+Top Module Name                    : PC_4bit
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/nand_gate.vhd" into library work
+Parsing entity <nand_gate>.
+Parsing architecture <Behavioral> of entity <nand_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/sr_latch.vhd" into library work
+Parsing entity <sr_latch>.
+Parsing architecture <Structural> of entity <sr_latch>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/not_gate.vhd" into library work
+Parsing entity <not_gate>.
+Parsing architecture <Structural> of entity <not_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/d_latch.vhd" into library work
+Parsing entity <d_latch>.
+Parsing architecture <Structural> of entity <d_latch>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/d_ff.vhd" into library work
+Parsing entity <master_slave_ff>.
+Parsing architecture <Structural> of entity <master_slave_ff>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/xor_gate.vhd" into library work
+Parsing entity <xor_gate>.
+Parsing architecture <Structural> of entity <xor_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/register_1bit.vhd" into library work
+Parsing entity <register_1bit>.
+Parsing architecture <Structural> of entity <register_1bit>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/and_gate.vhd" into library work
+Parsing entity <and_gate>.
+Parsing architecture <Structural> of entity <and_gate>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/register_4bit.vhd" into library work
+Parsing entity <register_4bit>.
+Parsing architecture <Structural> of entity <register_4bit>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/mux4.vhd" into library work
+Parsing entity <mux4>.
+Parsing architecture <Behavioral> of entity <mux4>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/incrementer_4bit.vhd" into library work
+Parsing entity <incrementer_4bit>.
+Parsing architecture <Structural> of entity <incrementer_4bit>.
+Parsing VHDL file "/home/ise/Shared_back_up/CPU/computer/PC_4bit.vhd" into library work
+Parsing entity <PC_4bit>.
+Parsing architecture <Structural> of entity <pc_4bit>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating entity <PC_4bit> (architecture <Structural>) from library <work>.
+
+Elaborating entity <incrementer_4bit> (architecture <Structural>) from library <work>.
+
+Elaborating entity <not_gate> (architecture <Structural>) from library <work>.
+
+Elaborating entity <nand_gate> (architecture <Behavioral>) from library <work>.
+
+Elaborating entity <xor_gate> (architecture <Structural>) from library <work>.
+
+Elaborating entity <and_gate> (architecture <Structural>) from library <work>.
+
+Elaborating entity <mux4> (architecture <Behavioral>) from library <work>.
+INFO:HDLCompiler:679 - "/home/ise/Shared_back_up/CPU/computer/mux4.vhd" Line 22. Case statement is complete. others clause is never selected
+
+Elaborating entity <register_4bit> (architecture <Structural>) from library <work>.
+
+Elaborating entity <register_1bit> (architecture <Structural>) from library <work>.
+
+Elaborating entity <master_slave_ff> (architecture <Structural>) from library <work>.
+
+Elaborating entity <d_latch> (architecture <Structural>) from library <work>.
+
+Elaborating entity <sr_latch> (architecture <Structural>) from library <work>.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <PC_4bit>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/PC_4bit.vhd".
+    Summary:
+	no macro.
+Unit <PC_4bit> synthesized.
+
+Synthesizing Unit <incrementer_4bit>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/incrementer_4bit.vhd".
+    Summary:
+	no macro.
+Unit <incrementer_4bit> synthesized.
+
+Synthesizing Unit <not_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/not_gate.vhd".
+    Summary:
+	no macro.
+Unit <not_gate> synthesized.
+
+Synthesizing Unit <nand_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/nand_gate.vhd".
+    Summary:
+	no macro.
+Unit <nand_gate> synthesized.
+
+Synthesizing Unit <xor_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/xor_gate.vhd".
+    Summary:
+	no macro.
+Unit <xor_gate> synthesized.
+
+Synthesizing Unit <and_gate>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/and_gate.vhd".
+    Summary:
+	no macro.
+Unit <and_gate> synthesized.
+
+Synthesizing Unit <mux4>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/mux4.vhd".
+    Found 1-bit 4-to-1 multiplexer for signal <Y> created at line 17.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <mux4> synthesized.
+
+Synthesizing Unit <register_4bit>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/register_4bit.vhd".
+    Summary:
+	no macro.
+Unit <register_4bit> synthesized.
+
+Synthesizing Unit <register_1bit>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/register_1bit.vhd".
+INFO:Xst:3210 - "/home/ise/Shared_back_up/CPU/computer/register_1bit.vhd" line 41: Output port <Q_n> of the instance <FF> is unconnected or connected to loadless signal.
+    Summary:
+	inferred   2 Multiplexer(s).
+Unit <register_1bit> synthesized.
+
+Synthesizing Unit <master_slave_ff>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/d_ff.vhd".
+INFO:Xst:3210 - "/home/ise/Shared_back_up/CPU/computer/d_ff.vhd" line 35: Output port <Q_n> of the instance <MASTER> is unconnected or connected to loadless signal.
+    Summary:
+	no macro.
+Unit <master_slave_ff> synthesized.
+
+Synthesizing Unit <d_latch>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/d_latch.vhd".
+    Summary:
+	no macro.
+Unit <d_latch> synthesized.
+
+Synthesizing Unit <sr_latch>.
+    Related source file is "/home/ise/Shared_back_up/CPU/computer/sr_latch.vhd".
+    Summary:
+	no macro.
+Unit <sr_latch> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Multiplexers                                         : 12
+ 1-bit 2-to-1 multiplexer                              : 8
+ 1-bit 4-to-1 multiplexer                              : 4
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Multiplexers                                         : 12
+ 1-bit 2-to-1 multiplexer                              : 8
+ 1-bit 4-to-1 multiplexer                              : 4
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: INC/AND2/U1/n0000, PC_REG/REG2/D_next, PC_REG/REG3/FF/MASTER/U4/U1/n0000, PC_plus1<3>, PC_REG/REG2/FF/MASTER/U4/U1/n0000, PC_plus1<2>, PC<3>, PC_REG/REG3/FF/SLAVE/U4/U1/n0000, INC/XOR3/U1/n0000, PC_REG/REG3/D_next, PC_REG/REG2/FF/SLAVE/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG0/FF/SLAVE/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG1/FF/SLAVE/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG3/FF/MASTER/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG2/FF/MASTER/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG3/FF/SLAVE/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG0/FF/MASTER/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG1/FF/MASTER/U4/U1/n0000.
+WARNING:Xst:2170 - Unit PC_4bit : the following signal(s) form a combinatorial loop: PC_REG/REG2/FF/SLAVE/U4/U1/n0000.
+
+Optimizing unit <PC_4bit> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block PC_4bit, actual ratio is 0.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Found no macro
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : PC_4bit.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 15
+#      INV                         : 4
+#      LUT3                        : 6
+#      LUT4                        : 1
+#      LUT6                        : 4
+# IO Buffers                       : 11
+#      IBUF                        : 7
+#      OBUF                        : 4
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx4tqg144-3 
+
+
+Slice Logic Utilization: 
+ Number of Slice LUTs:                   15  out of   2400     0%  
+    Number used as Logic:                15  out of   2400     0%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:     15
+   Number with an unused Flip Flop:      15  out of     15   100%  
+   Number with an unused LUT:             0  out of     15     0%  
+   Number of fully used LUT-FF pairs:     0  out of     15     0%  
+   Number of unique control sets:         0
+
+IO Utilization: 
+ Number of IOs:                          11
+ Number of bonded IOBs:                  11  out of    102    10%  
+
+Specific Feature Utilization:
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+No clock signals found in this design
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -3
+
+   Minimum period: No path found
+   Minimum input arrival time before clock: No path found
+   Maximum output required time after clock: No path found
+   Maximum combinational path delay: 15.360ns
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 79 / 4
+-------------------------------------------------------------------------
+Delay:               15.360ns (Levels of Logic = 13)
+  Source:            CLK (PAD)
+  Destination:       PC<3> (PAD)
+
+  Data Path: CLK to PC<3>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             8   1.222   1.167  CLK_IBUF (CLK_IBUF)
+     LUT6:I0->O            2   0.203   0.617  PC_REG/REG0/FF/MASTER/U4/U1/n00001 (PC_REG/REG0/FF/MASTER/U4/U1/n0000)
+     LUT3:I2->O            6   0.205   0.973  PC_REG/REG0/FF/SLAVE/U4/U1/n00001 (PC_REG/REG0/FF/SLAVE/U4/U1/n0000)
+     LUT6:I3->O            2   0.205   0.617  PC_REG/REG1/FF/MASTER/U4/U1/n00002 (PC_REG/REG1/FF/MASTER/U4/U1/n0000)
+     LUT3:I2->O            5   0.205   0.962  PC_REG/REG1/FF/SLAVE/U4/U1/n00001 (PC_REG/REG1/FF/SLAVE/U4/U1/n0000)
+     LUT6:I2->O            1   0.203   0.684  PC_REG/REG2/FF/MASTER/U4/U1/n00001 (PC_REG/REG2/FF/MASTER/U4/U1/n00001)
+     LUT3:I1->O            2   0.203   0.617  PC_REG/REG2/FF/MASTER/U4/U1/n00002 (PC_REG/REG2/FF/MASTER/U4/U1/n0000)
+     LUT3:I2->O            4   0.205   0.912  PC_REG/REG2/FF/SLAVE/U4/U1/n00001 (PC_REG/REG2/FF/SLAVE/U4/U1/n0000)
+     LUT4:I1->O            1   0.205   0.924  PC_REG/REG3/FF/MASTER/U4/U1/n00001 (PC_REG/REG3/FF/MASTER/U4/U1/n00001)
+     LUT6:I1->O            2   0.203   0.617  PC_REG/REG3/FF/MASTER/U4/U1/n00002 (PC_REG/REG3/FF/MASTER/U4/U1/n0000)
+     LUT3:I2->O            3   0.205   0.650  PC_REG/REG3/FF/SLAVE/U4/U1/n00001 (PC_REG/REG3/FF/SLAVE/U4/U1/n0000)
+     INV:I->O              1   0.206   0.579  PC_REG/REG3/FF/SLAVE/U4/U1/Y1_INV_0 (PC_3_OBUF)
+     OBUF:I->O                 2.571          PC_3_OBUF (PC<3>)
+    ----------------------------------------
+    Total                     15.360ns (6.041ns logic, 9.319ns route)
+                                       (39.3% logic, 60.7% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 10.00 secs
+Total CPU time to Xst completion: 0.75 secs
+ 
+--> 
+
+
+Total memory usage is 475960 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    9 (   0 filtered)
+Number of infos    :    2 (   0 filtered)
+

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work mux4.vhd -prj computer -o mux4.spl -module mux4 -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 mux4.spl /home/rashed/computer/mux4.sym 

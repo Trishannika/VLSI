@@ -1,0 +1,9 @@
+[Inputs]
+D0
+D1
+D2
+D3
+=SEL[1:0]=
+[Outputs]
+Y
+[BiDir]
